@@ -10,13 +10,10 @@ Penguins </h1>
 <p> Penguins lack the ability to fly because their wings are used to cut through water. As penguins evolved they developed shorter and denser wing structures to suit their environment. This leads their wings to serve more as powerful flippers allowing gracefully swim through water. </p>
 <img src="angelo-abear-UgL9xl4GSDc-unsplash.jpg">
 <style>
-  p {
- background-image: url('yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg');  
- background-repeat: no-repeat;
- background-attachment: fixed;
- background-size: cover;
-   }
- </style>
+p {
+  background-image: url('');
+}
+</style>
 
 
 </body>
