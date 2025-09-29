@@ -11,7 +11,7 @@ Penguins </h1>
 <img src="angelo-abear-UgL9xl4GSDc-unsplash.jpg">
 <style>
 p {
-  background-image: url('');
+  background-image: url('yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg');
 }
 </style>
 
