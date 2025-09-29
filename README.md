@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Penguins</title>
+<title> Penguins </title>
 </head>
 <body>
 
