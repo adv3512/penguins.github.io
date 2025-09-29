@@ -10,7 +10,7 @@
 <p> Penguins often bear a "tuxedo" (black and white) color to allow for better camouflage in water. Their black tops allow them to blend into the dark depths of water, while their white bellies match the warmer color of the surface of water. </p>
 <img src="gadiel-lazcano-1Iuoj-XJjVo-unsplash.jpg">
 <h3> Sources </h3>
-<a href="https://www.allaboutbirds.org/news/why-cant-penguins-fly/"></a>
-<a href="https://www.cabq.gov/artsculture/biopark/news/10-cool-facts-about-penguins"></a>
+<a href="https://www.allaboutbirds.org/news/why-cant-penguins-fly/"> Source 1</a>
+<a href="https://www.cabq.gov/artsculture/biopark/news/10-cool-facts-about-penguins"> Source 2</a>
 </body>
 </html>
