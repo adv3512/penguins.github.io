@@ -1,18 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Penguins </title>
+<title>Penguins</title>
 </head>
 <body>
- <h1> Heading </h1>
- <p> paragraph </p>
- <style>
-  p {
- background-image: url('yuriy-kovalev-nN1HSDtKdlw-unsplash.jpg');  
- background-repeat: no-repeat;
- background-attachment: fixed;
- background-size: cover;
-   }
- </style>
+
+<h1>Birds that can't fly?</h1>
+<p> Penguins lack the ability to fly because their wings are used to cut through water. As penguins evolved they developed shorter and denser wing structures to suit their environment. This leads their wings to serve more as powerful flippers allowing gracefully swim through water. </p>
+
 </body>
 </html>
